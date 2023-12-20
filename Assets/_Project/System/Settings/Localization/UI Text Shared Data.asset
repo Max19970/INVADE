@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 159f194bdd224cb45925e0c01d391686
+  m_Entries:
+  - m_Id: 213725274112
+    m_Key: BeginText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345216704512
+    m_Key: NewGameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421922136064
+    m_Key: ContinueText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488204722176
+    m_Key: LoadText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 608447029248
+    m_Key: SettingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704773414912
+    m_Key: ExitText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814668374016
+    m_Key: ExtrasText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323031939735552
+    m_Key: GameTabText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323079960322048
+    m_Key: VideoTabText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323187456139264
+    m_Key: AudioTabText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323236437221376
+    m_Key: ControlsTabText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325449767247872
+    m_Key: BackText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1757425413971968
+    m_Key: ThisIsATestText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773049049571328
+    m_Key: LanguageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773090740953088
+    m_Key: ShowAchievementsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773192331190272
+    m_Key: DetectionIndicatorText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773374548533248
+    m_Key: EnemyFieldOfViewText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773498829955072
+    m_Key: ResolutionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774006957301760
+    m_Key: ScreenModeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774138310320128
+    m_Key: VsyncText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774242912067584
+    m_Key: ParticleEffectsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774478187356160
+    m_Key: BlurQualityText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774654532673536
+    m_Key: FPSCapText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774728155291648
+    m_Key: BrightnessText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774875954176000
+    m_Key: SetDefaultsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775048746917888
+    m_Key: MasterVolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775150882414592
+    m_Key: MusicVolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775276740894720
+    m_Key: AmbientVolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775363881754624
+    m_Key: SFXVolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775443305095168
+    m_Key: GoLeftText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775531142209536
+    m_Key: GoRightText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775588277018624
+    m_Key: JumpText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775687581360128
+    m_Key: ShrinkText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775865340157952
+    m_Key: AttackText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775950903959552
+    m_Key: SwitchAbilityBackText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776176075169792
+    m_Key: SwitchAbilityForwardText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776369583579136
+    m_Key: Inventory1Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776515163676672
+    m_Key: Inventory2Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776577956601856
+    m_Key: Inventory3Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776625322876928
+    m_Key: Inventory4Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776734236368896
+    m_Key: RussianText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776778989592576
+    m_Key: EnglishText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776816897712128
+    m_Key: OnText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776866537299968
+    m_Key: OffText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776894106460160
+    m_Key: BorderlessText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776975073304576
+    m_Key: FullscreenText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777037698457600
+    m_Key: WindowedText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777271400882176
+    m_Key: LowText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777318179954688
+    m_Key: MediumText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777359363825664
+    m_Key: HighText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816710873407488
+    m_Key: GameSettingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816806402875392
+    m_Key: VideoSettingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816880281346048
+    m_Key: AudioSettingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816947839000576
+    m_Key: ControlsSettingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1847730536505344
+    m_Key: FPSUnlimitedText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1848686305140736
+    m_Key: RunInBackText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1857867611430912
+    m_Key: ApplyText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887385503555584
+    m_Key: KeyboardText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887450364272640
+    m_Key: GamepadText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3923865835462656
+    m_Key: AreYouQuitText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3923985821917184
+    m_Key: YesText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3924018105475072
+    m_Key: NoText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4534963475374080
+    m_Key: AchievementsText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8268231894999236634
+  references:
+    version: 2
+    RefIds:
+    - rid: 8268231894999236634
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701728642856

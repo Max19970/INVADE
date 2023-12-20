@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 159f194bdd224cb45925e0c01d391686, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 213725274112
+    m_Localized: Begin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345216704512
+    m_Localized: New game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421922136064
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488204722176
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 608447029248
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704773414912
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814668374016
+    m_Localized: Extras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323031939735552
+    m_Localized: Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323079960322048
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323187456139264
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323236437221376
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325449767247872
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1757425413971968
+    m_Localized: This is a test text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773049049571328
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773090740953088
+    m_Localized: Show achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773192331190272
+    m_Localized: Detection indicator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773374548533248
+    m_Localized: Enemy's field of view
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773498829955072
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774006957301760
+    m_Localized: Screen mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774138310320128
+    m_Localized: V-Sync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774242912067584
+    m_Localized: Particle effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774478187356160
+    m_Localized: Blur quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774654532673536
+    m_Localized: FPS limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774728155291648
+    m_Localized: Brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1774875954176000
+    m_Localized: Set defaults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775048746917888
+    m_Localized: Master volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775150882414592
+    m_Localized: Music volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775276740894720
+    m_Localized: Ambient volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775363881754624
+    m_Localized: SFX volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775443305095168
+    m_Localized: Go left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775531142209536
+    m_Localized: Go right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775588277018624
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775687581360128
+    m_Localized: Shrink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775865340157952
+    m_Localized: Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775950903959552
+    m_Localized: Switch ability (backwards)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776176075169792
+    m_Localized: Switch ability (forwards)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776369583579136
+    m_Localized: Inventory (cell 1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776515163676672
+    m_Localized: Inventory (cell 2)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776577956601856
+    m_Localized: Inventory (cell 3)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776625322876928
+    m_Localized: Inventory (cell 4)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776734236368896
+    m_Localized: Russian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776778989592576
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776816897712128
+    m_Localized: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776866537299968
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776894106460160
+    m_Localized: Borderless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1776975073304576
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777037698457600
+    m_Localized: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777271400882176
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777318179954688
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777359363825664
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816710873407488
+    m_Localized: Game settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816806402875392
+    m_Localized: Video settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816880281346048
+    m_Localized: Audio settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816947839000576
+    m_Localized: Controls settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1847730536505344
+    m_Localized: Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1848686305140736
+    m_Localized: Run in background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1857867611430912
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887385503555584
+    m_Localized: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887450364272640
+    m_Localized: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3923865835462656
+    m_Localized: Are you sure you want to quit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3923985821917184
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3924018105475072
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4534963475374080
+    m_Localized: Achievements
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
